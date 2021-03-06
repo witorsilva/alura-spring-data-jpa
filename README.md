@@ -4,13 +4,18 @@
 
 > EXAMPLE JPA TO SPRING DATA.
 
-### Requires
+<!-- GETTING STARTED -->
+## Getting Started
 
-- JDK 8
-- MariaDB
-- Docker
+Project created for examples to alura course
 
-## Installation
+### Prerequisites
+
+* JDK 8
+* MariaDB
+* Docker
+  
+## Installation  
 
 ### Simple Installation  MariaDB For Docker
 
