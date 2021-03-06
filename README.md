@@ -2,12 +2,16 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
+## About The Project
+
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
 > EXAMPLE JPA TO SPRING DATA.
+
+Project created for examples to alura course
 
 <!-- GETTING STARTED -->
 ## Getting Started
-
-Project created for examples to alura course
 
 ### Prerequisites
 
