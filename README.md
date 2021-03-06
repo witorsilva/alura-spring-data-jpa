@@ -1,4 +1,4 @@
-# SPRING DATA JPA 
+# ALURA SPRING DATA JPA 
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
@@ -27,15 +27,18 @@
 ## Database
 
 * DATABASE NAME
+
    ```sh
-    CREATE A TABASE NAME **alura-spring-data-jpa**
+    CREATE A TABASE NAME *alura-spring-data-jpa*
     ```
 * DATABASE USER
+
    ```sh
-    CREATE A TABASE NAME **root**
+    CREATE A TABASE NAME *root*
     ```
 * DATABASE PASSWORD
+
    ```sh
-    CREATE A TABASE NAME **mariadb**
+    CREATE A TABASE NAME *mariadb*
     ```
   
