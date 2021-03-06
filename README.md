@@ -47,7 +47,14 @@ Spring data will create tables automatically
     mariadb
     ```
     
-## Installation  
+### Installation
 
-
-  
+1. Clone the repo
+   ```sh
+   git clone https://github.com/witorsilva/alura-spring-data-jpa.git
+   ```
+2. Install MAVEN packages
+   ```sh
+   mvn install
+   ```
+3. Build or Run SpringDataApplication   
