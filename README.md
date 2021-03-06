@@ -1,4 +1,4 @@
-## About The Alura Spring Data Jpa Project
+# ALURA SPRING DATA JPA
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
