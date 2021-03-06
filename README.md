@@ -1,8 +1,4 @@
-# ALURA SPRING DATA JPA 
-
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
-## About The Project
+## About The Alura Spring Data Jpa Project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
