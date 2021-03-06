@@ -26,6 +26,8 @@
     
 ## Database
 
+Spring data will created auto tables
+
 * CREATE DATABASE NAME
 
    ```sh
