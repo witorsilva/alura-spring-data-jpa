@@ -57,4 +57,3 @@ Spring data will create tables automatically
    ```sh
    mvn install
    ```
-3. Build or Run SpringDataApplication   
