@@ -70,3 +70,7 @@ Spring data will create tables automatically
 * [MAVEN](https://maven.apache.org/)
 * [MARIADB DOCKER](https://hub.docker.com/_/mariadb)
 * [MARIADB](https://mariadb.org/)
+
+
+
+[product-screenshot]: images/screenshot.png
