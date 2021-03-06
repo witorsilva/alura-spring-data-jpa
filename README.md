@@ -19,26 +19,26 @@
       docker pull mariadb
   ```
   
-* CREATE CONTAINER TO MARIADB
+* CREATE AND RUN CONTAINER TO MARIADB
     ```sh
     docker run -p 127.0.0.1:3306:3306 --name some-mariadb -e MYSQL_ROOT_PASSWORD=mariadb -d mariadb:latest
     ```
     
 ## Database
 
-* DATABASE NAME
+* CREATE DATABASE NAME
 
    ```sh
-    CREATE A TABASE NAME *alura-spring-data-jpa*
+     alura-spring-data-jpa
     ```
-* DATABASE USER
+* CREATE NAME USER FOR DATABASE 
 
    ```sh
-    CREATE A TABASE NAME *root*
+    root
     ```
-* DATABASE PASSWORD
+* CREATE PASSWORD FOR USER IN DATABASE
 
    ```sh
-    CREATE A TABASE NAME *mariadb*
+    mariadb
     ```
   
