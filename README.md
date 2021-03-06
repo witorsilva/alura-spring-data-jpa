@@ -15,7 +15,7 @@ Project created for examples to alura course
 * MariaDB
 * Docker
   
-## Installation  
+## Database
 
 ### Simple Installation  MariaDB For Docker
 
@@ -27,9 +27,7 @@ Project created for examples to alura course
 * CREATE AND RUN CONTAINER TO MARIADB
     ```sh
     docker run -p 127.0.0.1:3306:3306 --name some-mariadb -e MYSQL_ROOT_PASSWORD=mariadb -d mariadb:latest
-    ```
-    
-## Database
+    ``` 
 
 Spring data will create tables automatically
 
@@ -48,4 +46,8 @@ Spring data will create tables automatically
    ```sh
     mariadb
     ```
+    
+## Installation  
+
+
   
