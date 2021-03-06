@@ -6,9 +6,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-> EXAMPLE JPA TO SPRING DATA.
-
-Project created for examples to alura course
+Project created for examples JPA SPRING DATA of alura course
 
 <!-- GETTING STARTED -->
 ## Getting Started
