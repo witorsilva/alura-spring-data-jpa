@@ -61,8 +61,8 @@ Spring data will create tables automatically
 <!-- MARKDOWN LINKS & IMAGES -->
 ## LINKS
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-* [JDK8]: https://www.oracle.com/br/java/technologies/javase/javase-jdk8-downloads.html
-* [DOCKER]: https://www.docker.com/
-* [MAVEN]: https://maven.apache.org/
-* [MARIADB DOCKER]: https://hub.docker.com/_/mariadb
-* [MARIADB]: https://mariadb.org/
+* [JDK8](https://www.oracle.com/br/java/technologies/javase/javase-jdk8-downloads.html)
+* [DOCKER](https://www.docker.com/)
+* [MAVEN](https://maven.apache.org/)
+* [MARIADB DOCKER](https://hub.docker.com/_/mariadb)
+* [MARIADB](https://mariadb.org/)
