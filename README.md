@@ -26,7 +26,7 @@
     
 ## Database
 
-Spring data will created auto tables
+Spring data will create tables automatically
 
 * CREATE DATABASE NAME
 
