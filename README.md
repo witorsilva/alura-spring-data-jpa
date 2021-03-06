@@ -73,4 +73,4 @@ Spring data will create tables automatically
 
 
 
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: https://raw.githubusercontent.com/othneildrew/Best-README-Template/master/images/screenshot.png
