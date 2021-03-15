@@ -1,8 +1,8 @@
-# ALURA SPRING DATA JPA
+# SPRING DATA JPA
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Project created for examples JPA SPRING DATA of alura course
+Project created for examples JPA SPRING DATA
 
 <!-- GETTING STARTED -->
 ## Getting Started
